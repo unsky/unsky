@@ -1,16 +1,13 @@
 ### Hi there 👋
+- 🔭 我目前在[思谋科技](https://www.smartmore.com)工作,我们是一家致力于将计算机视觉落地于工业场景的AI科技公司:wink:
+- 🌱 如果你对是计算机视觉落地工业有浓厚的兴趣，欢迎给我们投递简历，[详细岗位](https://smartmore.zhiye.com/Social).
+- 📫 内推可以联系我：email: 2081264[at].com
 
-<!--
-**unsky/unsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Stats</h2>
+<table>
+    <tr>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=unsky&show_icons=true&count_private=true"></td>
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unsky&show_icons=true&layout=compact"</td>
+    </tr>
+</table>
