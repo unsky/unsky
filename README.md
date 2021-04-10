@@ -7,7 +7,7 @@
 <h2>Stats</h2>
 <table>
     <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api?username=unsky&show_icons=true&count_private=true"></td>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=unsky&show_icons=true&count_private=true&count_all_commits=true"></td>
         <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unsky&show_icons=true&layout=compact"</td>
     </tr>
 </table>
